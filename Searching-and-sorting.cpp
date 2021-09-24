@@ -1,4 +1,6 @@
-//https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1
+//  LINK - https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1
+
+
 class Solution 
 {
     public:
