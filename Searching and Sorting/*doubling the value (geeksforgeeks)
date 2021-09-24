@@ -1,4 +1,14 @@
 //find better sol using binary search 
+/* 
+
+Given an array and an integer B, traverse the array (from the beginning) and if the element in array is B, double B and continue traversal. 
+Find the value of B after the complete traversal.
+
+
+
+
+LINK -https://practice.geeksforgeeks.org/problems/doubling-the-value4859/1
+*/
 
 class Solution
 {
