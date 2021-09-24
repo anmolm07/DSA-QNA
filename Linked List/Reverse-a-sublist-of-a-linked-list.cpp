@@ -1,6 +1,20 @@
 // { Driver Code Starts
 //Initial Template for C++
+/*
 
+  Input :
+N = 10
+Linked List = 1->7->5->3->9->8->10
+                      ->2->2->5->NULL
+m = 1, n = 8
+Output : 2 10 8 9 3 5 7 1 2 5 
+Explanation :
+The nodes from position 1 to 8 
+are reversed, resulting in 
+2 10 8 9 3 5 7 1 2 5.
+
+
+*/
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -150,14 +164,4 @@ int main()
   // } Driver Code Ends
   
   
-  
-  Input :
-N = 10
-Linked List = 1->7->5->3->9->8->10
-                      ->2->2->5->NULL
-m = 1, n = 8
-Output : 2 10 8 9 3 5 7 1 2 5 
-Explanation :
-The nodes from position 1 to 8 
-are reversed, resulting in 
-2 10 8 9 3 5 7 1 2 5.
+ 
