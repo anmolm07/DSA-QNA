@@ -1,6 +1,9 @@
-Problem - Given an array arr[] of N integers arranged in a circular fashion. Your task is to find the maximum contiguous subarray sum.
+/*Problem - Given an array arr[] of N integers arranged in a circular fashion. Your task is to find the maximum contiguous subarray sum.
 solution -
 
+link - https://practice.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1
+
+*/
 int kadane(int arr[], int n)
     {
         int max_so_far = INT_MIN, max_ending_here = 0;
